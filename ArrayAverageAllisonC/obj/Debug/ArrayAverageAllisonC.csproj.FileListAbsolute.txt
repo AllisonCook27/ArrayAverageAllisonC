@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\ArrayAverageAllisonC\ArrayAverageAllisonC\bin\Debug\ArrayAverageAllisonC.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\ArrayAverageAllisonC\ArrayAverageAllisonC\bin\Debug\ArrayAverageAllisonC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\ArrayAverageAllisonC\ArrayAverageAllisonC\bin\Debug\ArrayAverageAllisonC.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\ArrayAverageAllisonC\ArrayAverageAllisonC\obj\Debug\ArrayAverageAllisonC.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\ArrayAverageAllisonC\ArrayAverageAllisonC\obj\Debug\ArrayAverageAllisonC.frmArrayAverage.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\ArrayAverageAllisonC\ArrayAverageAllisonC\obj\Debug\ArrayAverageAllisonC.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\ArrayAverageAllisonC\ArrayAverageAllisonC\obj\Debug\ArrayAverageAllisonC.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\ArrayAverageAllisonC\ArrayAverageAllisonC\obj\Debug\ArrayAverageAllisonC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\ArrayAverageAllisonC\ArrayAverageAllisonC\obj\Debug\ArrayAverageAllisonC.pdb
